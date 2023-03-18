@@ -92,7 +92,7 @@ echo $status;
 <tr>
   <td colspan="2" align="center"><button type="submit" name="submit" class="btn btn-primary">Update order</button></td>
 
-</tr>
+        </tr>
       </table>
 
 </form>
